@@ -72,6 +72,8 @@
 
 進入你 Fork 的倉庫 → `Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
+> 💡 **首次配置？** 查看詳細圖文教程：[如何查找和配置 GitHub Secrets](how-to-configure-secrets.md)
+
 **AI 模型配置（二選一）**
 
 | Secret 名稱 | 說明 | 必填 |
