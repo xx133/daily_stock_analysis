@@ -72,6 +72,8 @@ Click the `Fork` button in the upper right corner
 
 Go to your forked repo → `Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
+> 💡 **First time configuring?** Check the detailed guide: [How to Configure GitHub Secrets](how-to-configure-secrets-en.md)
+
 **AI Model Configuration (Choose one)**
 
 | Secret Name | Description | Required |

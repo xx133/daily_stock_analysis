@@ -75,6 +75,9 @@
 **原因**：GitHub 区分 `Secrets`（加密）和 `Variables`（普通变量），配置位置不对会导致读取失败。
 
 **解决方案**：
+
+> 💡 **详细配置教程**：查看 [如何查找和配置 GitHub Secrets](how-to-configure-secrets.md)
+
 1. 进入仓库 `Settings` → `Secrets and variables` → `Actions`
 2. **Secrets**（点击 `New repository secret`）：存放敏感信息
    - `GEMINI_API_KEY`

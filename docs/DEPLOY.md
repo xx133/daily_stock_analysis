@@ -344,6 +344,8 @@ git push -u origin main
 
 打开仓库页面 → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**
 
+> 💡 **详细配置教程**：查看 [如何查找和配置 GitHub Secrets](how-to-configure-secrets.md)
+
 添加以下 Secrets：
 
 | Secret 名称 | 说明 | 必填 |

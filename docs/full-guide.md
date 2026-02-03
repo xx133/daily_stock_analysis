@@ -47,6 +47,8 @@ daily_stock_analysis/
 
 进入你 Fork 的仓库 → `Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
+> 💡 **首次配置？** 查看详细图文教程：[如何查找和配置 GitHub Secrets](how-to-configure-secrets.md)
+
 <div align="center">
   <img src="../sources/secret_config.png" alt="GitHub Secrets 配置示意图" width="600">
 </div>
