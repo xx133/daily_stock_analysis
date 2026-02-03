@@ -69,6 +69,8 @@
 
 `Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
+> 💡 **首次配置？** 查看详细图文教程：[如何查找和配置 GitHub Secrets](docs/how-to-configure-secrets.md)
+
 **AI 模型配置（二选一）**
 
 | Secret 名称 | 说明 | 必填 |
